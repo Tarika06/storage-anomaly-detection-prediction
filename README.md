@@ -2,8 +2,6 @@
 
 An end-to-end machine learning system that monitors storage drive telemetry, detects anomalies, predicts failures before they happen, and explains every decision — built to reflect real-world enterprise data infrastructure challenges.
 
-> Inspired by the kind of intelligent data infrastructure problems solved at companies like NetApp.
-
 ---
 
 ## 🎯 Project Overview
@@ -158,13 +156,6 @@ Each row represents one drive on one day and includes S.M.A.R.T. attributes like
 - Cloud deployment on AWS or GCP
 - Real-time data streaming with Apache Kafka
 - Automated retraining pipeline with MLflow tracking
-
----
-
-## 👤 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
 
 ---
 
